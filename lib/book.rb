@@ -7,5 +7,5 @@ def title
 end
 end
 
-Book.new("And Then There Were None")
+Book.new.title("And Then There Were None")
 
