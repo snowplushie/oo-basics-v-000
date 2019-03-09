@@ -38,5 +38,4 @@ end
 end
 
 Book.new("And Then There Were None")
-book.turn_page
 
