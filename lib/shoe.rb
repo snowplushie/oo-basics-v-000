@@ -16,3 +16,4 @@ def cobble
 end
 end
 
+Shoe.new("Adidas")
